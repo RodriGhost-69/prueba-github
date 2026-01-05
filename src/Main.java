@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Cambio hecho por mi compañero imaginario desde GitHub para rpobar git pull y git fetch");
 
         System.out.println("Mi PC dice: A mi me gusta el color ROJO");
-        
+        System.out.println("GitHub dice: A mi me gusta el color AZUL");
+
     }
 }
