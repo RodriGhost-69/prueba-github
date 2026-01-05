@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println("Cambio hecho por mi compañero imaginario desde GitHub para rpobar git pull y git fetch");
 
-        System.out.println("Cambio para prueba de git pull y git fetch pero con conflicto");
+        System.out.println("GitHub dice: A mi me gusta el color AZUL");
         
     }
 }
