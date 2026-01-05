@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Cambio para probrar git pull");
 
         System.out.println("Cambio hecho por mi compañero imaginario desde GitHub para rpobar git pull y git fetch");
+
+        System.out.println("Cambio para prueba de git pull y git fetch pero con conflicto");
         
     }
 }
