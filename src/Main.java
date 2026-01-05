@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Mi PC dice: A mi me gusta el color ROJO");
         System.out.println("GitHub dice: A mi me gusta el color AZUL");
 
+        System.out.println("Esta linea simula la funcionalidad de Login");
     }
 }
